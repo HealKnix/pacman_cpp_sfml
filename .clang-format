@@ -1,0 +1,3 @@
+BasedOnStyle: Google
+Cpp11BracedListStyle: false
+SortIncludes: false
